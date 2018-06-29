@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -14,10 +9,6 @@ import java.util.LinkedList;
 import java.util.Map;
 import org.tartarus.snowball.ext.EnglishStemmer;
 
-/**
- *
- * @author Mohamed
- */
 public class Search_Rank {
 
     static DB Database;
