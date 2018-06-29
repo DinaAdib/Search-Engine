@@ -1,0 +1,2 @@
+The ranking and interface modules were created in a separate web project using servlets.
+The Lib folder contains any libraries or Jar files you will need to import in your project to get it working.
